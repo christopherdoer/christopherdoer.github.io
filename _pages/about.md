@@ -27,6 +27,5 @@ I am working on multi domain approaches with FMCW radar, thermal imaging and ine
 
 # Recent News
 
-- 06/2021: The radar inertial datasets with pseudo ground truth used in our recent paper on [Yaw aided Radar Inertial Odometry](../_publications/2021_05_ICINS2021.md) 
-are available online: [Radar Inertial Datasets ICINS 2021](../_datasets/icins_2021_radar_inertial_odometry.md)
-- 05/2021: ***RIO - Radar Inertial Odometry and Radar based Ego Velocity Estimation*** is released as open source: [here](https://github.com/christopherdoer/rio) 
+- 06/2021: The radar inertial datasets with pseudo ground truth used in our recent paper on [Yaw aided Radar Inertial Odometry](../_publications/2021_05_ICINS2021.md) are available [here](../_datasets/icins_2021_radar_inertial_odometry.md).
+- 05/2021: ***RIO - Radar Inertial Odometry and Radar based Ego Velocity Estimation*** is released as open source [here](https://github.com/christopherdoer/rio).
