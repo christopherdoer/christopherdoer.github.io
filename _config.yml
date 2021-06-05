@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Christopher Doer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Christopher Doer"
+description              : &description "Research Associate & PhD Candidate @ Karlsruhe Institute of Technology (KIT)"
+#url                      : http://127.0.0.1:4000/ # run local
+url                      : https://chrisdoer.github.io # run online
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "chrisdoer/chrisdoer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Christopher Doer"
+  avatar           : "profile_chris.jpg"
+  bio              : "Research Associate & PhD Candidate @ Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT)"
+  location         : "Karlsruhe, GER"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Christopher-Doer"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +97,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "christopherdoer"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "christopherdoer"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCcwSp3ops1oFxGqSVH2_8Sg"
   wikipedia        :
 
 
@@ -122,6 +123,9 @@ include:
   - .htaccess
   - _pages
   - files
+  - _datasets
+  - _publications
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -175,12 +179,12 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -210,14 +214,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  - scope:
+#      path: ""
+#      type: teaching
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
   # _publications
   - scope:
       path: ""
