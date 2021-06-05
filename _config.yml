@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Christopher Doer"
 description              : &description "Research Associate & PhD Candidate @ Karlsruhe Institute of Technology (KIT)"
 #url                      : http://127.0.0.1:4000/ # run local
-url                      : https://christopherdoer.github.io # run online
+url                      : https://christopherdoer.github.io/ # run online
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrisdoer/chrisdoer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
