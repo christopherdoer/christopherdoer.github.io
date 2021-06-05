@@ -86,9 +86,10 @@ author:
   bio              : "Research Associate & PhD Candidate @ Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT)"
   location         : "Karlsruhe, GER"
   employer         :
+  kit_irs          : "https://www.irs.kit.edu/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "christopher.doer@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Christopher-Doer"
   uri              :
   bitbucket        :
