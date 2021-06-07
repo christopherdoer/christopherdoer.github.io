@@ -34,6 +34,7 @@ If you use this dataset for your academic research, please cite our related pape
   booktitle={2021 28th Saint Petersburg International Conference on Integrated Navigation Systems (ICINS)}, 
   title={Yaw aided Radar Inertial Odometry uisng Manhattan World Assumptions}, 
   year={2021}
+}
 ~~~
 
 
@@ -107,10 +108,7 @@ The sensor data is provided with rosbags containing the following topics:
 - /sensor_platform/radar/scan (sensor_msgs/PointCloud2): Radar scan (IWR6843AOPEVM) whereas each point consists of: x
 , y, z, snr_db , v_doppler_mps, noise_db and range. The time stamp is already in sync with the corresponding trigger header.
 
-The point cloud point type is sketched below, for an example implementation see [radar_point_cloud.h](https://github
-.com/christopherdoer
-/rio/blob/main/rio_utils/include/rio_utils/radar_point_cloud.h) and [radar_point_cloud.cpp](https://github.com
-/christopherdoer/rio/blob/main/rio_utils/src/radar_point_cloud.cpp):
+The point cloud point type is sketched below, for an example implementation see [radar_point_cloud.h](https://github.com/christopherdoer/rio/blob/main/rio_utils/include/rio_utils/radar_point_cloud.h) and [radar_point_cloud.cpp](https://github.com/christopherdoer/rio/blob/main/rio_utils/src/radar_point_cloud.cpp):
 
 ~~~c++
 struct RadarPointCloudType
