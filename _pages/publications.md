@@ -10,6 +10,7 @@ author_profile: true
 Christopher Doer and Gert F. Trommer   
 28th Saint Petersburg International Conference on Integrated Navigation Systems (ICINS), 2021     
 [[Details]](../_publications/2021_05_ICINS2021.md) 
+[[Paper]](https://bwsyncandshare.kit.edu/s/mG9Bp2c8B5WagSH) 
 [[Code]](https://github.com/christopherdoer/rio)
 [[Datasets]](../_datasets/icins_2021_radar_inertial_odometry.md)   
 ![image](../images/publications/teaaser_icins2021_3.jpg) 
