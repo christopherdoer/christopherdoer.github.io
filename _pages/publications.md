@@ -12,7 +12,9 @@ Christopher Doer and Gert F. Trommer
 [[Details]](../_publications/2021_05_ICINS2021.md) 
 [[Paper]](https://bwsyncandshare.kit.edu/s/mG9Bp2c8B5WagSH) 
 [[Code]](https://github.com/christopherdoer/rio)
-[[Datasets]](../_datasets/icins_2021_radar_inertial_odometry.md)   
+[[Datasets]](../_datasets/icins_2021_radar_inertial_odometry.md)
+[[Video_1]](https://www.youtube.com/watch?v=EIcBMo1sM_g) 
+[[Video_2]](https://www.youtube.com/watch?v=KhWPqMC6gSE)   
 ![image](../images/publications/teaaser_icins2021_3.jpg) 
 
 
