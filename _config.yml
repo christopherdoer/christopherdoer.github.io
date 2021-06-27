@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Christopher Doer"
-  avatar           : "profile_chris.jpg"
+  avatar           : "profile_christopher_doer.jpg"
   bio              : "Research Associate & PhD Candidate @ Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT)"
   location         : "Karlsruhe, GER"
   employer         :
   kit_irs          : "https://www.irs.kit.edu/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=tEMy6vsAAAAJ&hl=de&oi=ao"
   email            : "christopher.doer@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Christopher-Doer"
   uri              :
