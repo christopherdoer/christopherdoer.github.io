@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research associate and PhD candidate at the Institute of Control Systems (IRS), Karlsruhe Institute of
+My name is Christopher Doer and I am a research associate and PhD candidate at the Institute of Control Systems (IRS), Karlsruhe Institute of
  Technology (KIT) supervised by Prof. Gert F. Trommer. 
  Before that, I obtained my B.Sc. and M.Sc. in Electrical Engineering at KIT.
  During my studies I gained further experience doing several internships and research assistant jobs in Germany and
