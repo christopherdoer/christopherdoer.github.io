@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+## [Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](../_publications/2021_09_IROS2021.md)  
+Christopher Doer and Gert F. Trommer   
+2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)   
+[[Details]](../_publications/2021_09_IROS2021.md) 
+[[Paper Draft]](https://bwsyncandshare.kit.edu/s/kD4xJmCRC7R9N7A)
+[[Code]](https://github.com/christopherdoer/rrxio)
+[[Datasets]](../_datasets/irs_rtvi_datasets_iros2021.md)   
+![image](../images/publications/teaser_iros2021.jpg) 
 
 ## [Yaw aided Radar Inertial Odometry using Manhattan World Assumptions](../_publications/2021_05_ICINS2021.md)  
 Christopher Doer and Gert F. Trommer   
