@@ -26,5 +26,7 @@ I am working on multi domain approaches with FMCW radar, thermal imaging and ine
 
 
 # Recent News
+- 09/2021: Check out our IROS 2021 [paper](../_publications/2021_09_IROS2021.md) on [RRxIO](https://github.com/christopherdoer/rrxio) combining radar ego velocity estimates with Visual Inertial Odometry (VIO) or Thermal Inertial Odometry (TIO). The radar-thermal-visual-inertial datasets with ground truth are available [here](../_datasets/irs_rtvi_datasets_iros2021.md).
+- 09/2021: [REVE - Radar Ego Velocity Estimator](https://github.com/christopherdoer/reve): Robust 3D ego velocity estimation using 4D mmWave radar sensors is released as open source.
 - 06/2021: The radar inertial datasets with pseudo ground truth used in our recent paper on [Yaw aided Radar Inertial Odometry](../_publications/2021_05_ICINS2021.md) are available [here](../_datasets/icins_2021_radar_inertial_odometry.md).
 - 05/2021: ***RIO - Radar Inertial Odometry and Radar based Ego Velocity Estimation*** is released as open source [here](https://github.com/christopherdoer/rio).
