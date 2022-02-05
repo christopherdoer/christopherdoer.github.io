@@ -4,6 +4,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## [GNSS aided Radar Inertial Odometry for UAS Flights in Challenging Conditions ](../_publications/2022_02_Aeroconf2022.md)  
+Christopher Doer, Jamal Atman and Gert F. Trommer   
+2022 IEEE Aerospace Conference (AeroConf)   
+[[Details]](../_publications/2022_02_AeroConf2022.md) 
+[[Paper Draft will follow soon]]()
+[[Code will follow soon]](https://github.com/christopherdoer/rio)
+[[Datasets will follow soon]](../_datasets/)   
+![image](../images/publications/teaser_aeroconf2022.jpg) 
+
+## [x-RIO: Radar Inertial Odometry with Multiple Radar Sensors and Yaw Aiding](../_publications/2022_02_JGN2022.md)  
+Christopher Doer and Gert F. Trommer   
+Journal Gyroscopy and Navigation 2022    
+[[Details]](../_publications/2022_02_JGN2022.md) 
+[[Paper Draft will follow soon]]()
+[[Code will follow soon]](https://github.com/christopherdoer/rio)
+[[Datasets will follow soon]](../_datasets/)   
+![image](../images/publications/teaser_jgn2022.jpg) 
 
 ## [Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](../_publications/2021_09_IROS2021.md)  
 Christopher Doer and Gert F. Trommer   
