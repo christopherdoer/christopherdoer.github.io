@@ -165,11 +165,13 @@ Each carried and flight dataset consists of three files (details below):
 
 ## Rosbag
 The sensor data is provided with rosbags containing the following topics:
-- /sensor_platform/imu (sensor_msgs/Imu): IMU measurements (ADIS16448)
-- /sensor_platform/baro (sensor_msgs/FluidPressure): Barometer measurements (ADIS16448) 
-- /sensor_platform/radar/trigger (std_msgs/Header): Radar trigger, marks the start of a radar scan
-- /sensor_platform/radar/scan (sensor_msgs/PointCloud2): Radar scan (IWR6843AOPEVM) whereas each point consists of: x
+- /sensor_platform/imu ([sensor_msgs/Imu](https://docs.ros.org/en/kinetic/api/sensor_msgs/html/msg/Imu.html)): IMU measurements (ADIS16448)
+- /sensor_platform/baro ([sensor_msgs/FluidPressure](https://docs.ros.org/en/kinetic/api/sensor_msgs/html/msg/FluidPressure.html)): Barometer measurements (ADIS16448) 
+- /sensor_platform/radar/trigger ([std_msgs/Header](https://docs.ros.org/en/kinetic/api/std_msgs/html/msg/Header.html)): Radar trigger, marks the start of a radar scan
+- /sensor_platform/radar/scan ([sensor_msgs/PointCloud2](https://docs.ros.org/en/kinetic/api/sensor_msgs/html/msg/PointCloud2.html)): Radar scan (IWR6843AOPEVM) whereas each point consists of: x
 , y, z, snr_db , v_doppler_mps, noise_db and range. The time stamp is already in sync with the corresponding trigger header.
+
+
 
 The point cloud point type is sketched below, for an example implementation see [radar_point_cloud.h](https://github.com/christopherdoer/reve/blob/master/radar_ego_velocity_estimator/include/radar_ego_velocity_estimator/radar_point_cloud.h) and [radar_point_cloud.cpp](https://github.com/christopherdoer/reve/blob/master/radar_ego_velocity_estimator/src/radar_point_cloud.cpp):
 

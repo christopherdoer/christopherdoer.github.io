@@ -4,7 +4,7 @@ layout: archive
 permalink: /datasets/irs_rtvi_datasets_iros2021
 ---
 
-This dataset can be downloaded [here](https://bwsyncandshare.kit.edu/s/XaxE29Q262WDFWK) and can be processed by our RRxIO pipeline [RRxIO](https://github.com/christopherdoer/rrxio).
+This dataset can be downloaded [here](https://bwsyncandshare.kit.edu/s/XaxE29Q262WDFWK) and can be processed by our [RRxIO pipeline](https://github.com/christopherdoer/rrxio).
 
 Further details regarding the datasets can be found in our [paper](../_publications/2021_09_IROS2021.md).
 
@@ -54,7 +54,7 @@ If you use this dataset for your academic research, please cite our related pape
 # Sensor Setup
 The sensor platform is equipped with an FMCW radar sensor (TI IWR6843AOP), a thermal camera (FLIR Boson 640), a monochrome visual camera (IDS UI-3241) and an IMU (Analog Devices ADIS16448). 
 Accurate temporal synchronization of all sensor data is achieved using a micro-controller board. The sensor rates are: IMU (409 Hz), visual and thermal cameras (20 Hz) and radar (10 Hz).
-The TI IWR6843AOP is a single chip 60 GHz Fast FMCW radar with an integrated antenna array (3 Tx and 4 Rx) and a Field of View (FOV) of approximately 60 ◦ in azimuth and elevation. All radar processing is done on chip. 
+The TI IWR6843AOP is a single chip 60 GHz Fast FMCW radar with an integrated antenna array (3 Tx and 4 Rx) and a Field of View (FOV) of approximately 120 deg in azimuth and elevation. All radar processing is done on chip. 
 The visual camera uses a global shutter and provides images of 1280 × 1024 px. The thermal camera records with 640 × 512 px.
 
 ![image](irs_rtvi_datasets_iros2021/sensor_setup.jpg)
@@ -75,12 +75,12 @@ Each dataset consists of two files (details below):
 
 ## Rosbag
 The sensor data is provided with rosbags containing the following topics:
-- /sensor_platform/imu (sensor_msgs/Imu): IMU measurements (ADIS16448)
-- /sensor_platform/camera_visual/img (sensor_msgs/Image): Images of visual camera (IDS UI-3241) 
-- /sensor_platform/camera_thermal/img (sensor_msgs/Image): Images of thermal camera (FLIR Boson 640)
-- /sensor_platform/baro (sensor_msgs/FluidPressure): Barometer measurements (ADIS16448) 
-- /sensor_platform/radar/trigger (std_msgs/Header): Radar trigger, marks the start of a radar scan
-- /sensor_platform/radar/scan (sensor_msgs/PointCloud2): Radar scan (IWR6843AOPEVM) whereas each point consists of: x
+- /sensor_platform/imu ([sensor_msgs/Imu](https://docs.ros.org/en/kinetic/api/sensor_msgs/html/msg/Imu.html)): IMU measurements (ADIS16448)
+- /sensor_platform/camera_visual/img ([sensor_msgs/Image](https://docs.ros.org/en/kinetic/api/sensor_msgs/html/msg/Image.html)): Images of visual camera (IDS UI-3241) 
+- /sensor_platform/camera_thermal/img ([sensor_msgs/Image](https://docs.ros.org/en/melodic/api/sensor_msgs/html/msg/Image.html)): Images of thermal camera (FLIR Boson 640)
+- /sensor_platform/baro ([sensor_msgs/FluidPressure](https://docs.ros.org/en/kinetic/api/sensor_msgs/html/msg/FluidPressure.html)): Barometer measurements (ADIS16448) 
+- /sensor_platform/radar/trigger ([std_msgs/Header](https://docs.ros.org/en/kinetic/api/std_msgs/html/msg/Header.html)): Radar trigger, marks the start of a radar scan
+- /sensor_platform/radar/scan ([sensor_msgs/PointCloud2](https://docs.ros.org/en/kinetic/api/sensor_msgs/html/msg/PointCloud2.html)): Radar scan (IWR6843AOPEVM) whereas each point consists of: x
 , y, z, snr_db , v_doppler_mps, noise_db and range. The time stamp is already in sync with the corresponding trigger header.
 
 The point cloud point type is sketched below, for an example implementation see [radar_point_cloud.h](https://github.com/christopherdoer/reve/blob/master/radar_ego_velocity_estimator/include/radar_ego_velocity_estimator/radar_point_cloud.h) and [radar_point_cloud.cpp](https://github.com/christopherdoer/reve/blob/master/radar_ego_velocity_estimator/src/radar_point_cloud.cpp):

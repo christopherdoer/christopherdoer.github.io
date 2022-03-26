@@ -18,10 +18,10 @@ distortion_coefficients:
 
 # extrinsic parameters
 ## IMU to camera quaternion (Hamilton)
-q_x:  0.511  ;0.508349;
-q_y: -0.494 ;-0.492986;
-q_z:  0.49 ;0.493682;
-q_w:  0.505 ;0.5048 ;
+q_x:  0.511
+q_y: -0.494
+q_z:  0.49
+q_w:  0.505
 
 ## IMU to camera translation
 l_x: 0.03
