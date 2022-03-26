@@ -17,7 +17,7 @@ I am interested in autonomous aerial vehicles (e.g. drones or VTOLs) enabling ap
 
 # Research
 My main research focus is the robust and reliable navigation of aerial vehicles even in challenging visual conditions such as darkness or fog and in GNSS degraded or GNSS denied environments.
-I am working on multi domain approaches with FMCW radar, thermal imaging and inertial sensing. I demonstrated these approaches for takeoff and precision landing and online navigation of autonomous drones successfully even in degraded visual conditions successfully. 
+I am working on multi domain approaches with FMCW radar, thermal imaging and inertial sensing. I demonstrated these approaches for takeoff and precision landing and online navigation of autonomous drones successfully even in degraded visual conditions. 
 
 # Recent News
 - 03/2022: Our Journal paper [x-RIO: Radar Inertial Odometry with Multiple Radar Sensors and Yaw Aiding](../_publications/2022_02_JGN2022.md) is published. The code is released as open source: [x_rio](https://github.com/christopherdoer/rio/tree/main/x_rio). The [datasets](../_datasets/multi_radar_inertial_datasets_JGN2022.md) with ground truth are also available.

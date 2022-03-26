@@ -1,0 +1,29 @@
+## Extrinsic calibration of body frame to radar frame
+
+topic_radar_scan: "/sensor_platform/camera_thermal/img"
+
+# intrinsic parameters
+image_width: 640
+image_height: 512
+camera_name: cam0
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [ 404.98, 0.0, 319.05, 0.0, 405.06, 251.84, 0.0, 0.0, 1.0 ]
+distortion_model: equidistant
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [ -0.09202092749042277, 0.04012198239889151, -0.03795923559427829, 0.010728597805678742 ]
+
+# extrinsic parameters
+## IMU to camera quaternion (Hamilton)
+q_x:  0.511
+q_y: -0.494
+q_z:  0.49
+q_w:  0.505
+
+## IMU to camera translation
+l_x: 0.03
+l_y: 0.0
+l_z: 0.0
