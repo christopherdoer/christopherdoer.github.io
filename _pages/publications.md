@@ -17,16 +17,16 @@ Christopher Doer, Jamal Atman and Gert F. Trommer
 Christopher Doer and Gert F. Trommer   
 Journal Gyroscopy and Navigation 2022    
 [[Details]](../_publications/2022_02_JGN2022.md) 
-[[Paper Draft will follow soon]]()
-[[Code will follow soon]](https://github.com/christopherdoer/rio)
-[[Datasets will follow soon]](../_datasets/)   
+[[Paper]](https://link.springer.com/article/10.1134/S2075108721040039)
+[[Code]](https://github.com/christopherdoer/rio/tree/main/x_rio)
+[[Datasets]](../_datasets/multi_radar_inertial_datasets_JGN2022.md)  
 ![image](../images/publications/teaser_jgn2022.jpg) 
 
 ## [Radar Visual Inertial Odometry and Radar Thermal Inertial Odometry: Robust Navigation even in Challenging Visual Conditions](../_publications/2021_09_IROS2021.md)  
 Christopher Doer and Gert F. Trommer   
 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)   
 [[Details]](../_publications/2021_09_IROS2021.md) 
-[[Paper Draft]](https://bwsyncandshare.kit.edu/s/kD4xJmCRC7R9N7A)
+[[Paper]](https://ieeexplore.ieee.org/document/9636799)
 [[Code]](https://github.com/christopherdoer/rrxio)
 [[Datasets]](../_datasets/irs_rtvi_datasets_iros2021.md)   
 ![image](../images/publications/teaser_iros2021.jpg) 

@@ -4,7 +4,7 @@ layout: archive
 permalink: /datasets/multi_radar_inertial_datasets_JGN2022
 ---
 
-This dataset can be downloaded [here](https://bwsyncandshare.kit.edu/s/nwERMYdFComFxx5) and can be processed by our Radar Inertial Odometry pipeline [x_rio](https://github.com/christopherdoer/rio/x_rio).
+This dataset can be downloaded [here](https://bwsyncandshare.kit.edu/s/nwERMYdFComFxx5) and can be processed by our Radar Inertial Odometry pipeline [x_rio](https://github.com/christopherdoer/rio/tree/main/x_rio).
 
 Contact me in case of questions or issues: [Christopher Doer](mailto:christopher.doer@kit.edu)
 
