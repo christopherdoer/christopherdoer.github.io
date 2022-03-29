@@ -14,8 +14,15 @@ l_b_r_x: 0.06
 l_b_r_y: 0.04
 l_b_r_z: -0.04
 
-# rotation radar frame to body frame
+# rotation radar frame to body frame (Hamilton)
 q_b_r_x: 0.699462156
 q_b_r_y: 0.714611909
 q_b_r_z: 0.007341567
 q_b_r_w: 0.005349194
+
+# as single transformation: p_imu = T_imu_radar * p_radar
+T_imu_radar:
+  - [ 0.02144816,  0.99960943,  0.01791549, 0.06]
+  - [-0.99976652,  0.02139759,  0.00300962, 0.04]
+  - [ 0.0026251 ,  0.01797586, -0.99983498, -0.04]
+  - [0.,0.,0.,1.]

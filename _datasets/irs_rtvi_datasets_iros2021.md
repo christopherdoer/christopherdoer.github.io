@@ -59,12 +59,12 @@ The visual camera uses a global shutter and provides images of 1280 × 1024 px. 
 
 ![image](irs_rtvi_datasets_iros2021/sensor_setup.jpg)
 
-# Calibrations
+# Calibration Files
 
-The individual calibration files are:
-- [Calibration visual camera](./irs_rtvi_datasets_iros2021/calib_visual_camera.yaml)
-- [Calibration thermal camera](./irs_rtvi_datasets_iros2021/calib_thermal_camera.yaml)
-- [Calibration radar sensor](./irs_rtvi_datasets_iros2021/calib_radar.yaml)
+The individual calibration files including the extrinsic transforms of the sensor rig:
+- [calibration visual camera](./irs_rtvi_datasets_iros2021/calib_visual_camera.yaml)
+- [calibration thermal camera](./irs_rtvi_datasets_iros2021/calib_thermal_camera.yaml)
+- [calibration radar sensor](./irs_rtvi_datasets_iros2021/calib_radar.yaml)
 
 
 # Data Format
