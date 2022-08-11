@@ -5,6 +5,9 @@ permalink: /datasets/
 author_profile: true
 ---
 
+### [KIT Campus Global Loops Aeroconf 2022](../_datasets/kit_campus_global_loops_aeroconf2022.md)   
+GNSS Multi Radar Inertial outdoor datasets
+
 ### [Multi Radar Inertial Datasets JGN 2022](../_datasets/multi_radar_inertial_datasets_JGN2022.md)   
 Multi Radar Inertial indoor datasets with pseudo ground truth 
 ![image](../_datasets/jgn_2022_multi_radar_inertial_datasets/teaser.jpg)

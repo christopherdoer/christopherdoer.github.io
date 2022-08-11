@@ -9,9 +9,9 @@ author_profile: true
 Christopher Doer, Jamal Atman and Gert F. Trommer   
 2022 IEEE Aerospace Conference (AeroConf)   
 [[Details]](../_publications/2022_02_Aeroconf2022.md) 
-[[Paper Draft]](https://bwsyncandshare.kit.edu/s/ikWes8nJppCS59K)
-[[Code will follow soon]](https://github.com/christopherdoer/rio)
-[[Datasets will follow soon]](./datasets.md)   
+[[Paper]](https://ieeexplore.ieee.org/document/9843326)
+[[Code]](https://github.com/christopherdoer/rio)
+[[Datasets]](../_datasets/kit_campus_global_loops_aeroconf2022.md)   
 ![image](../images/publications/teaser_aeroconf2022.jpg) 
 
 ### [x-RIO: Radar Inertial Odometry with Multiple Radar Sensors and Yaw Aiding](../_publications/2022_02_JGN2022.md)  

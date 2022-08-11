@@ -10,7 +10,8 @@ redirect_from:
 
 My name is Christopher Doer and I am a research associate and PhD candidate at the Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT) supervised by Prof. Gert F. Trommer. 
 Before that, I obtained my B.Sc. and M.Sc. in Electrical Engineering at KIT.
-During my studies I gained further experience doing several internships and research assistant jobs in Germany and the USA.
+During my studies I gained further experience doing several internships and research assistant jobs in Germkes and ladders
+ and the USA.
 I am working on autonomous aerial vehicles (e.g. drones or VTOLs) to enable applications such as urban air mobility, parcel delivery, search and rescue, surveillance and maintenance.
 
 # Research
@@ -45,9 +46,9 @@ Precision Takeoff and Landing even in challenging visual conditions such as dark
 Christopher Doer, Jamal Atman and Gert F. Trommer   
 2022 IEEE Aerospace Conference (AeroConf)   
 [[Details]](../_publications/2022_02_Aeroconf2022.md) 
-[[Paper Draft]](https://bwsyncandshare.kit.edu/s/ikWes8nJppCS59K)
-[[Code will follow soon]](https://github.com/christopherdoer/rio)
-[[Datasets will follow soon]](./datasets.md)   
+[[Paper]](https://ieeexplore.ieee.org/document/9843326)
+[[Code]](https://github.com/christopherdoer/rio)
+[[Datasets]](../_datasets/kit_campus_global_loops_aeroconf2022.md)   
 ![image](../images/publications/teaser_aeroconf2022.jpg) 
 
 ### [x-RIO: Radar Inertial Odometry with Multiple Radar Sensors and Yaw Aiding](../_publications/2022_02_JGN2022.md)  
