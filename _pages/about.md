@@ -20,6 +20,8 @@ I am working on multi domain approaches with FMCW radar, thermal imaging and ine
 I demonstrated these approaches for takeoff and precision landing and online navigation of autonomous drones successfully even in degraded visual conditions. 
 
 # Recent News
+- **08/2022:** Our AeroConf paper [GNSS aided Radar Inertial Odometry for UAS Flights in Challenging Conditions](../_publications/2022_02_Aeroconf2022.md), source code [gnss_x_rio](https://github.com/christopherdoer/rio/tree/main/gnss_x_rio) and [KIT Campus Global Loops Datasets](../_datasets/kit_campus_global_loops_aeroconf2022.md) are published.
+ ![image](../images/publications/teaser_aeroconf2022.jpg) 
 - **03/2022:** Our Journal paper [x-RIO: Radar Inertial Odometry with Multiple Radar Sensors and Yaw Aiding](../_publications/2022_02_JGN2022.md) is published. The code is released as open source: [x_rio](https://github.com/christopherdoer/rio/tree/main/x_rio). The [datasets](../_datasets/multi_radar_inertial_datasets_JGN2022.md) with ground truth are also available.
   ![image](../images/publications/teaser_jgn2022.jpg) 
 - **09/2021:** Check out our IROS 2021 [paper](../_publications/2021_09_IROS2021.md) on [RRxIO](https://github.com/christopherdoer/rrxio) combining radar ego velocity estimates with Visual Inertial Odometry (VIO) or Thermal Inertial Odometry (TIO). The code is released as open source: [RRxIO](https://github.com/christopherdoer/rrxio). The [radar-thermal-visual-inertial datasets](../_datasets/irs_rtvi_datasets_iros2021.md) with ground truth are also available.
