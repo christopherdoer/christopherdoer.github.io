@@ -4,10 +4,10 @@ layout: archive
 permalink: /datasets/icins_2021_radar_inertial_odometry
 ---
 
-This dataset can be downloaded [here](https://bwsyncandshare.kit.edu/s/wiNRrPNed8dJ64c) and can be processed by our yaw
+This dataset can be downloaded [here](https://drive.google.com/file/d/1u1aVFGMJ2eSe8p1iElLD6TdlQzOO9gT_/view?usp=sharing) and can be processed by our yaw
  aided radar inertial odometry pipeline [ekf_yrio](https://github.com/christopherdoer/rio/tree/main/ekf_yrio).
 
-Contact me in case of questions or issues: [Christopher Doer](mailto:christopher.doer@kit.edu)
+Contact me in case of questions or issues: [Christopher Doer](mailto:christopherdoer@gmail.com)
 
 The dataset consists of 5 carried and 4 manual flight indoor datasets recorded in an office building.
 Pseudo ground truth is available and was created using [VINS](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)  with loops closure and subsequent manual removal of scale errors.

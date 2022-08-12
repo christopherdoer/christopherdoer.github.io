@@ -6,7 +6,7 @@ permalink: /datasets/kit_campus_global_loops_aeroconf2022
 
 This dataset can be downloaded [here](https://drive.google.com/file/d/1_IQtRxY_pP-ZrMnzSaM-PwfXD6LWrr_X/view?usp=sharing) and can be processed by our GNSS Radar Inertial Odometry pipeline [gnss_x_rio](https://github.com/christopherdoer/rio/tree/main/gnss_x_rio).
 
-Contact me in case of questions or issues: [Christopher Doer](mailto:christopher.doer@kit.edu)
+Contact me in case of questions or issues: [Christopher Doer](mailto:christopherdoer@gmail.com)
 
 
 # Cite

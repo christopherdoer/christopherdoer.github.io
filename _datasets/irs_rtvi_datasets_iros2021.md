@@ -4,11 +4,11 @@ layout: archive
 permalink: /datasets/irs_rtvi_datasets_iros2021
 ---
 
-This dataset can be downloaded [here](https://bwsyncandshare.kit.edu/s/XaxE29Q262WDFWK) and can be processed by our [RRxIO pipeline](https://github.com/christopherdoer/rrxio).
+This dataset can be downloaded [here](https://drive.google.com/file/d/11d3Lt0wBUGz1Psp7rbS27YBGGveK2OCD/view?usp=sharing) and can be processed by our [RRxIO pipeline](https://github.com/christopherdoer/rrxio).
 
 Further details regarding the datasets can be found in our [paper](../_publications/2021_09_IROS2021.md).
 
-Contact me in case of questions or issues: [Christopher Doer](mailto:christopher.doer@kit.edu)
+Contact me in case of questions or issues: [Christopher Doer](mailto:christopherdoer@gmail.com)
 
 The dataset consists of 5 datasets recorded at a motion capture lab and 4 datasets recorded in typical scenes indoors and outdoors.
 A short summary of the datasets is given below:
