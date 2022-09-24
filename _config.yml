@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Christopher Doer"
 title_separator          : "-"
 name                     : &name "Christopher Doer"
-description              : &description "Research Associate & PhD Candidate @ Karlsruhe Institute of Technology (KIT)"
+description              : &description "Software Engineer at Everyday Robots"
 #url                      : http://127.0.0.1:4000 # run local
 url                      : https://christopherdoer.github.io # run online
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,10 +83,10 @@ analytics:
 author:
   name             : "Christopher Doer"
   avatar           : "profile_christopher_doer.jpg"
-  bio              : "Research Associate & PhD Candidate @ Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT)"
+  bio              : "Software Engineer at Everyday Robots (X, formerly Google X)"
   location         : "Karlsruhe, GER"
   employer         :
-  kit_irs          : "https://www.irs.kit.edu/"
+#  kit_irs          : "https://www.irs.kit.edu/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tEMy6vsAAAAJ&hl=de&oi=ao"
   email            : "christopherdoer@gmail.com"
