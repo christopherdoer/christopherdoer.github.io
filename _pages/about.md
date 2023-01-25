@@ -8,26 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-My name is Christopher Doer and I am working as software engineer at [Everyday Robots](https://everydayrobots.com/).
-I am an expert for multi sensor fusion, state estimation and mapping for mobile robotics.
-Before joining EDR, I completed my PhD (Dr.-Ing.) at the Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT), Germany, supervised by Prof. Gert F. Trommer. 
-My PhD focused on multi-sensor navigation and mapping even in poor conditions (e.g. fog, darkness).
+My name is Christopher Doer! I am a software engineer with 7+ years experience coding C++ and Python. 
+I have expert knowledge in multi-sensor fusion, localization  and mapping for mobile robotics with a Ph.D. in this field completed in 2022.
+I like to work in an international team, to solve challenging engineering problems and to create technology which improves our everyday life!
+
+I am currently working in the perception team at [Everyday Robots](https://everydayrobots.com/) in Munich, GER.
+Before joining EDR, I completed my Ph.D. (Dr.-Ing.) at the Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT), Germany, supervised by Prof. Gert F. Trommer. 
+My Ph.D. focused on multi-sensor navigation and mapping even in poor conditions (e.g. fog, darkness).
 Before that, I obtained my B.Sc. and M.Sc. in Electrical Engineering at KIT.
 During my studies I gained further experience doing several internships and research assistant jobs in Germany and the USA.
 
 # Recent News
 - **09/2022:** I am super exited to share that I joined the perception team of [Everyday Robots](https://everydayrobots.com/) as software engineer. Born from [X, the moonshot factory](https://x.company/), and working alongside teams at Google, we  are building a new type of robot. One that can learn by itself, to help anyone with (almost) anything.
-- **08/2022:** My PhD thesis on multi-sensor navigation and mapping in challenging conditions is published. You can find the whole thesis (in German) [here](https://publikationen.bibliothek.kit.edu/1000149462).
-- **07/2022:** I successfully defended my PhD thesis "summa cum laude"!
+- **08/2022:** My Ph.D. thesis on multi-sensor navigation and mapping in challenging conditions is published. You can find the whole thesis (in German) [here](https://publikationen.bibliothek.kit.edu/1000149462).
+- **07/2022:** I successfully defended my Ph.D. thesis "summa cum laude"!
 - **04/2022:** Our AeroConf paper [GNSS aided Radar Inertial Odometry for UAS Flights in Challenging Conditions](../_publications/2022_02_Aeroconf2022.md), source code [gnss_x_rio](https://github.com/christopherdoer/rio/tree/main/gnss_x_rio) and [KIT Campus Global Loops Datasets](../_datasets/kit_campus_global_loops_aeroconf2022.md) are published.
 - **03/2022:** Our Journal paper [x-RIO: Radar Inertial Odometry with Multiple Radar Sensors and Yaw Aiding](../_publications/2022_02_JGN2022.md) is published. The code is released as open source: [x_rio](https://github.com/christopherdoer/rio/tree/main/x_rio). The [datasets](../_datasets/multi_radar_inertial_datasets_JGN2022.md) with ground truth are also available.
 - **09/2021:** Check out our IROS 2021 [paper](../_publications/2021_09_IROS2021.md) on [RRxIO](https://github.com/christopherdoer/rrxio) combining radar ego velocity estimates with Visual Inertial Odometry (VIO) or Thermal Inertial Odometry (TIO). The code is released as open source: [RRxIO](https://github.com/christopherdoer/rrxio). The [radar-thermal-visual-inertial datasets](../_datasets/irs_rtvi_datasets_iros2021.md) with ground truth are also available.
 - **09/2021:** [REVE - Radar Ego Velocity Estimator](https://github.com/christopherdoer/reve): Robust 3D ego velocity estimation using 4D mmWave radar sensors is released as open source.
 - **06/2021:** The radar inertial datasets with pseudo ground truth used in our recent paper on [Yaw aided Radar Inertial Odometry](../_publications/2021_05_ICINS2021.md) are available [here](../_datasets/icins_2021_radar_inertial_odometry.md).
 - **05/2021:** RIO - Radar Inertial Odometry and Radar based Ego Velocity Estimation is released as open source [here](https://github.com/christopherdoer/rio).
+- **04/2021:** Website launched!
 <br/><br/>  
  
-# PhD Research
+# Ph.D. Research
 My main research focus was the robust and reliable navigation of aerial vehicles even in challenging visual conditions such as darkness or fog and in GNSS degraded or GNSS denied environments.
 I have been working on multi domain approaches with FMCW radar, thermal imaging and inertial sensing. 
 I demonstrated these approaches for takeoff and precision landing and online navigation of autonomous drones successfully even in degraded visual conditions.  
