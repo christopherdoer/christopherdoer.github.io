@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Christopher Doer! I am a software engineer with 7+ years experience coding C++ and Python. 
-I have expert knowledge in multi-sensor fusion, localization  and mapping for mobile robotics with a Ph.D. in this field completed in 2022.
+My name is Christopher Doer and I am a software engineer with 7+ years experience coding C++ and Python. 
+I have expert knowledge in real-time sensor fusion and state estimation, localization and mapping (SLAM) and computer vision. 
+In addition to my research background (Ph.D. completed in 2022), I have proven experience building real world systems. 
 I like to work in an international team, to solve challenging engineering problems and to create technology which improves our everyday life!
 
 I am currently working in the perception team at [Everyday Robots](https://everydayrobots.com/) in Munich, GER.
 Before joining EDR, I completed my Ph.D. (Dr.-Ing.) at the Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT), Germany, supervised by Prof. Gert F. Trommer. 
-My Ph.D. focused on multi-sensor navigation and mapping even in poor conditions (e.g. fog, darkness).
+My Ph.D. focused on multi-sensor navigation and mapping even in challenging conditions (e.g. fog, darkness).
 Before that, I obtained my B.Sc. and M.Sc. in Electrical Engineering at KIT.
 During my studies I gained further experience doing several internships and research assistant jobs in Germany and the USA.
 
