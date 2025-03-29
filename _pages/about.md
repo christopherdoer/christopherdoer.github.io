@@ -8,19 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-My name is Christopher Doer and I am a software engineer with 7+ years experience coding C++ and Python. 
+My name is Christopher Doer. I am a software engineer with 7+ years experience coding C++ and Python. 
 I have expert knowledge in real-time sensor fusion and state estimation, localization and mapping (SLAM) and computer vision. 
 In addition to my research background (Ph.D. completed in 2022), I have proven experience building real world systems. 
 I like to work in an international team, to solve challenging engineering problems and to create technology which improves our everyday life!
 
-I am currently working in the perception team at [Everyday Robots](https://everydayrobots.com/) in Munich, GER.
+I am currently working at [Google AR](https://arvr.google.com/) in Munich, GER. 
+Before that, I worked in the perception team of [Everyday Robots](https://everydayrobots.com/).
 Before joining EDR, I completed my Ph.D. (Dr.-Ing.) at the Institute of Control Systems (IRS), Karlsruhe Institute of Technology (KIT), Germany, supervised by Prof. Gert F. Trommer. 
 My Ph.D. focused on multi-sensor navigation and mapping even in challenging conditions (e.g. fog, darkness).
 Before that, I obtained my B.Sc. and M.Sc. in Electrical Engineering at KIT.
 During my studies I gained further experience doing several internships and research assistant jobs in Germany and the USA.
 
 # Recent News
-- **09/2022:** I am super exited to share that I joined the perception team of [Everyday Robots](https://everydayrobots.com/) as software engineer. Born from [X, the moonshot factory](https://x.company/), and working alongside teams at Google, we  are building a new type of robot. One that can learn by itself, to help anyone with (almost) anything.
+- **12/2024:** [AndroidXR](https://www.android.com/xr/) is announced, proud to be part of the team building it!
+- **05/2023:** I am happy to share that I joined [Google AR](https://arvr.google.com/).
+- **09/2022:** I am super excited to share that I joined the perception team of [Everyday Robots](https://everydayrobots.com/) as software engineer. Born from [X, the moonshot factory](https://x.company/), and working alongside teams at Google, we  are building a new type of robot. One that can learn by itself, to help anyone with (almost) anything.
 - **08/2022:** My Ph.D. thesis on multi-sensor navigation and mapping in challenging conditions is published. You can find the whole thesis (in German) [here](https://publikationen.bibliothek.kit.edu/1000149462).
 - **07/2022:** I successfully defended my Ph.D. thesis "summa cum laude"!
 - **04/2022:** Our AeroConf paper [GNSS aided Radar Inertial Odometry for UAS Flights in Challenging Conditions](../_publications/2022_02_Aeroconf2022.md), source code [gnss_x_rio](https://github.com/christopherdoer/rio/tree/main/gnss_x_rio) and [KIT Campus Global Loops Datasets](../_datasets/kit_campus_global_loops_aeroconf2022.md) are published.

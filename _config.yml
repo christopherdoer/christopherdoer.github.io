@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Christopher Doer"
 title_separator          : "-"
 name                     : &name "Christopher Doer"
-description              : &description "Software Engineer at Everyday Robots"
-#url                      : http://127.0.0.1:4000 # run local
-url                      : https://christopherdoer.github.io # run online
+description              : &description "Software Engineer at Google"
+url                      : http://127.0.0.1:4000 # run local
+#url                      : https://christopherdoer.github.io # run online
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "christopherdoer/christopherdoer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Christopher Doer"
   avatar           : "profile_christopher_doer.jpg"
-  bio              : "Software Engineer at Everyday Robots (X, formerly Google X)"
+  bio              : "Software Engineer at Google"
   location         : "Munich, GER"
   employer         :
 #  kit_irs          : "https://www.irs.kit.edu/"
